@@ -13,20 +13,20 @@ function App() {
   // console.log("themes is", theme);
 
   // const Container = styled.div`
-  //    background: ${bgcolor}; 
-  //    color: ${color}; 
+  //    background: ${bgcolor};
+  //    color: ${color};
   //   border:2px solid black;
   //   height:500vh;
   //   ${mobile ({display : 'none' })}
-     
+
   // `;
 
   // const Button = styled.button`
   //   border: 2px solid crimson;
   //    background: ${bgcolor};
-  //   color: ${color}; 
+  //   color: ${color};
   //   background: ${theme? "black": "red"};
-  //   ${mobile ({display : 'none'})} 
+  //   ${mobile ({display : 'none'})}
 
   // `;
 
@@ -46,9 +46,9 @@ function App() {
       )}
       <h1> Current theme is {theme}</h1> */}
 
-      <Home/>
-      <Projects/>
-      <About/>
+      <Home />
+      <Projects />
+      <About />
       <Contact></Contact>
     </>
   );
