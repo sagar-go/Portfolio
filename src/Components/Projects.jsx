@@ -124,7 +124,7 @@ function Projects() {
             <p>Simple movie app with Api integration and Local Storage</p>
             <p>Tech Stack : HTML, CSS, React</p>
             <a
-              href="https://sagar-go.github.io/Final_Movie/"
+              href="https://sagar-go.github.io/Movie-app/"
               target="_blank"
               buttoncolor={buttoncolor}
             >
@@ -142,7 +142,7 @@ function Projects() {
             </p>
             <p>Tech Stack : HTML, CSS, React</p>
             <a
-              href="https://sagar-go.github.io/meal/"
+              href="https://sagar-go.github.io/meal2/"
               target="_blank"
               buttoncolor={buttoncolor}
             >
